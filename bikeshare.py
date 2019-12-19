@@ -90,6 +90,7 @@ def load_data(city, month, day):
     """
 
     print("\nThe program is loading the data for the filters of your choice.")
+     print("...")
     start_time = time.time()
 
     # filter the data according to the selected city filters
