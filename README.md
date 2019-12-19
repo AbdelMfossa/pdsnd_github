@@ -1,5 +1,5 @@
 ### Date created
-Dec 19, 2019 V.1.0
+Dec 19, 2019 V.1.1
 
 ### Project Title
 Udacity Programming for Data Science - Project 3 submission
