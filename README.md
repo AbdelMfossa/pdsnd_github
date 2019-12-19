@@ -6,6 +6,7 @@ Udacity Programming for Data Science - Project 3 submission
 
 ### Description
 Introduction to Version Control (git and gitHub)
+My Nanodegree on Udacity.com
 
 ### Files used
 https://www.commentcamarche.net/forum/affich-3162786-creer-un-fichier-avec-cmd
