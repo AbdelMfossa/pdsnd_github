@@ -349,6 +349,7 @@ def main():
 
         restart = choice("\nWould you like to restart?\n\n[y]Yes\n[n]No\n\n>")
         if restart.lower() != 'y':
+            print("good bye")
             break
 
 
