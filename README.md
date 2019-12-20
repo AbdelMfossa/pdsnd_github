@@ -1,15 +1,21 @@
 ### Date created
-Include the date you created this project and README file.
+Dec 19, 2019 V.1.1
 
 ### Project Title
+<<<<<<< HEAD
 Replace the Project Title...
+=======
+Udacity Programming for Data Science - Project 3 submission
+>>>>>>> documentation
 
 ### Description
-Describe what your project is about and what it does
+Introduction to Version Control (git and gitHub)
+My Nanodegree on Udacity.com
 
 ### Files used
-Include the files used
+https://www.commentcamarche.net/forum/affich-3162786-creer-un-fichier-avec-cmd
+https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/kamlakar185/pdsnd_github
 

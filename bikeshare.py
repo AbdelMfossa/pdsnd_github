@@ -11,7 +11,7 @@ CITY_DATA = {'chicago': 'chicago.csv',
 months = ('january', 'february', 'march', 'april', 'may', 'june')
 
 weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday',
-            'saturday')
+            'saturday','Hola')
 
 
 def choice(prompt, choices=('y', 'n')):
